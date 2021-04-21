@@ -127,7 +127,7 @@ h1 {
 	font-size: 5rem;
 	color: #165151;
 	text-transform: uppercase;
-	
+
 }
 h5 {
 	font-size: 18px;
@@ -208,3 +208,6 @@ p {
 	line-height: 500px;
 }
 
+.pad-bottom {
+  padding-bottom: 10px;
+}
