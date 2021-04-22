@@ -1,3 +1,12 @@
+
+html, body {
+  overflow-x: hidden;
+}
+
+body {
+  position: relative
+}
+
 @media (min-width: 992px) {
   body {
     padding-top: 0;
@@ -124,7 +133,7 @@ a href {
 
 h1 {
 	font-family: 'Oswald', sans-serif;
-	font-size: 5rem;
+	font-size: 4rem;
 	color: #165151;
 	text-transform: uppercase;
 
