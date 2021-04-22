@@ -211,3 +211,15 @@ p {
 .pad-bottom {
   padding-bottom: 10px;
 }
+
+.pad-top {
+  padding-top: 105px;
+}
+
+.pad-top-small {
+  padding-top: 100px;
+}
+
+.pad-top-med {
+  padding-top: 60px;
+}
